@@ -78,7 +78,7 @@ def transform_df(df: pd.DataFrame) -> pd.DataFrame:
     text_cols = ["description_summary", "other_details"]
     for c in text_cols:
         if c in df:
-            df[c] = df[c].astype(str).str.replace("\s+", " ", regex=True).str.strip()
+            df[c] = df[c].astype(str).str.replace(r"\s+", " ", regex=True).str.strip()
     if "people_count" in df:
         pc = df["people_count"].astype(str).str.extract(r"(\d+)", expand=False)
         df["people_count_num"] = _parse_int(pc)
