@@ -20,4 +20,4 @@ def get_processed_dir() -> Path:
 
 
 def get_raw_dataset_path() -> Path:
-    return get_raw_dir() / "MLOPs project data.csv"
+    return get_raw_dir() / "mlops_project_data.csv"
