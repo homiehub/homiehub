@@ -1,0 +1,269 @@
+timestamp,requirement,accom_type,gender,food_pref,furnished,red_eye,area,move_in_date,rent_amount,lease_duration,utilities_included,bathroom_type,distance_to_campus,people_count,description_summary,contact,heat_available,water_available,laundry_available,other_details
+4/20/24 8:15 AM,offering,shared,female,veg,yes,no,Roxbury,May 15,550,12 months,no,shared,1.2 miles,2,Cozy room in quiet apartment near T station,meera.shah@gmail.com,yes,included,in building,Pet friendly
+4/20/24 9:23 AM,looking,2 bed,mixed,,furnished,yes,Fenway,June 1,$850,flexible,yes,private,0.5 miles,3,Need spacious place close to campus,+1 857-234-5678,,yes,yes,Parking spot included
+4/20/24 10:45 AM,offering,private,male,non-veg,yes,,Mission Hill,available now,710,6 months,included,shared,0.8 miles,1,Private room with large windows and desk space,raj.patel@northeastern.edu,Yes,included,In-unit,near bus stop
+4/20/24 11:30 AM,offering,3 bed,,vegetarian,no,no,Brookline,May 20,650,,,1.5 miles,4,Spacious 3BR looking for one more roommate,8573829471,yes,yes,building,close to restaurants
+4/20/24 1:15 PM,looking,studio,female,,,yes,Cambridge,ASAP,1000,12 months,yes,private,3.2 miles,,Clean studio with natural light preferred,ananya.desai@gmail.com,required,included,must have,Quiet building
+4/20/24 2:40 PM,offering,4 bed,male,non-veg,furnished,,Roxbury,June 15,450,9 months,no,shared,1.1 miles,5,Room available in 4BR student house,+19174562890,yes,Yes,shared facility,24/7 security
+4/20/24 3:55 PM,offering,shared,female,veg,yes,no,Allston,move in: may 1,500,,partial,shared,2.0 miles,2,Shared room with another female student,priya_boston@yahoo.com,included,included,in bldg,WiFi included
+4/20/24 5:20 PM,looking,1 bed,any,no preference,yes,,Back Bay,mid May,$1200,12 months,yes,private,1.0 miles,1,Looking for modern 1BR in luxury building,contact: 857-392-4756,yes,yes,In unit,Gym access
+4/20/24 6:10 PM,offering,2bhk,mixed,,partially,yes,Fenway,early June,575,6 months,,shared,0.6 miles,3,2 bedroom apartment near Fenway Park,vishnu.iyer@gmail.com,yes,included,coin laundry,near T station
+4/20/24 7:45 PM,offering,private,male,non-veg,yes,no,Longwood,available now,710,flexible,no,private,0.3 miles,1,Private room in medical area perfect for students,(857) 445-3421,Yes,yes,available,Close to hospitals
+4/20/24 8:30 PM,looking,shared,female,veg,furnished,,Brookline,,550,12 months,included,shared,1.8 miles,2,Vegetarian household preferred,neha_2024@northeastern.edu,needed,included,yes,No smoking
+4/20/24 9:15 PM,offering,3bhk,male,,yes,no,Jamaica Plain,June 1,750,12 months,no,2 bathroom,2.5 miles,4,Large 3BHK with parking space available,857.392.8472,yes,included,In building,hardwood floors
+4/21/24 7:30 AM,offering,4 bed,,non-veg,no,,Roxbury,May 20,400,,,1.3 miles,5,Affordable room in student friendly area,karthik_boston@hotmail.com,yes,yes,,near orange line
+4/21/24 8:45 AM,looking,studio,female,veg,yes,yes,Cambridge,flexible,950,6 months,yes,private,3.0 miles,,Studio near Harvard Square,+1-617-234-9087,required,yes,required,Prefer quiet
+4/21/24 10:10 AM,offering,shared,mixed,,,no,Mission Hill,ASAP,460,9 months,partial,shared,0.7 miles,3,Shared room available immediately,aditya.sharma23@gmail.com,included,Included,shared,utilities split
+4/21/24 11:25 AM,offering,2 bed,female,vegetarian,furnished,,Fenway,May 15,$570,12 months,no,shared,0.5 miles,2,Furnished 2BR perfect for grad students,contact me: sneha.rao@yahoo.com,yes,yes,in-building,Female only
+4/21/24 12:40 PM,looking,private,male,non-veg,yes,no,Allston,June 1,650,flexible,yes,private,2.1 miles,1,Private room with private bath,8573345667,yes,included,prefer in unit,Parking needed
+4/21/24 1:55 PM,offering,1 bed,any,,no,,Back Bay,move in offer,900,6 months,,private,1.2 miles,1,1BR in historic brownstone building,michael.chen@gmail.com,Yes,included,building,high ceilings
+4/21/24 3:10 PM,offering,3 bed,male,veg,yes,yes,Roxbury,early May,535,12 months,no,shared,1.4 miles,4,3BR apartment with balcony,+1 857 445 9023,yes,yes,shared,balcony access
+4/21/24 4:20 PM,looking,2bhk,female,,furnished,,Brighton,available now,$750,9 months,included,shared,2.8 miles,2-3,Looking for 2BHK near green line,divya.krishnan@northeastern.edu,yes,included,yes,near grocery stores
+4/21/24 5:35 PM,offering,shared,mixed,non-veg,partially,no,Fenway,June 15,500,flexible,partial,shared,0.6 miles,2,Shared room in Fenway apartment,rohit_617@gmail.com,included,yes,coin op,Fenway Park nearby
+4/21/24 6:50 PM,offering,4 bed,male,,yes,,Jamaica Plain,May 1,450,12 months,no,2 bathroom,2.6 miles,5,Room in large 4BR house with yard,call 857-234-8890,yes,included,basement,yard space
+4/21/24 8:05 PM,looking,studio,,veg,yes,yes,Cambridge,mid June,1100,6 months,yes,private,3.1 miles,1,Studio apartment near MIT,pooja.venkat@gmail.com,needed,needed,in unit preferred,Bike storage
+4/21/24 9:20 PM,offering,private,female,vegetarian,furnished,no,Mission Hill,ASAP,710,flexible,,private,0.8 miles,1,Furnished private room available now,Text: 8573920847,yes,included,available,Quiet floor
+4/21/24 10:30 PM,offering,2 bed,mixed,,no,,Roxbury,June 1,575,12 months,no,shared,1.2 miles,3,2BR apartment with updated kitchen,sanjay.mehta@yahoo.com,Yes,yes,building laundry,new appliances
+4/22/24 7:15 AM,looking,3bhk,male,non-veg,yes,no,Brookline,May 20,$850,9 months,included,2 bathroom,1.6 miles,4,3BHK for group of friends,group.housing.2024@gmail.com,yes,yes,in unit,looking together
+4/22/24 8:40 AM,offering,shared,female,veg,,yes,Allston,available now,500,6 months,partial,shared,2.0 miles,2,Female roommate wanted ASAP,kavya_allston@hotmail.com,included,included,shared facility,near bus
+4/22/24 9:55 AM,offering,1 bed,any,,furnished,,Fenway,early June,900,12 months,no,private,0.5 miles,1,Furnished 1BR in modern building,Contact: james.wilson@gmail.com,yes,included,in-unit,Gym in building
+4/22/24 11:10 AM,looking,4 bed,mixed,no preference,yes,no,Back Bay,June 15,$1000,flexible,yes,shared,1.1 miles,4-5,Group looking for 4BR apartment,857-445-2341,required,required,must have,elevator building
+4/22/24 12:25 PM,offering,2bhk,male,,partially,,Longwood,May 1,600,9 months,,shared,0.4 miles,2,2BHK near medical area,arjun.reddy@northeastern.edu,yes,Yes,coin laundry,hospital nearby
+4/22/24 1:40 PM,offering,private,female,veg,yes,no,Cambridge,ASAP,850,12 months,included,private,3.0 miles,1,Private room in Cambridge apartment,+1-617-883-4521,included,included,in building,near red line
+4/22/24 2:50 PM,looking,shared,,vegetarian,furnished,yes,Mission Hill,mid May,450,6 months,partial,shared,0.7 miles,2,Vegetarian shared accommodation,preeti.singh@gmail.com,yes,included,,No alcohol
+4/22/24 4:05 PM,offering,3 bed,male,non-veg,no,,Roxbury,June 1,550,flexible,no,shared,1.3 miles,4,3BR apartment with large living room,8572239847,yes,yes,basement,storage available
+4/22/24 5:20 PM,offering,studio,female,,yes,,Brighton,May 20,$950,12 months,yes,private,2.7 miles,1,Studio with kitchen and private bath,sarah.thomas@yahoo.com,Yes,included,in unit,pets ok
+4/22/24 6:35 PM,looking,2 bed,mixed,veg,furnished,no,Fenway,available now,650,9 months,,shared,0.6 miles,2,2BR near Fenway for two friends,tanvi.agarwal@gmail.com,yes,yes,yes,both graduate students
+4/22/24 7:45 PM,offering,4bhk,male,,yes,yes,Jamaica Plain,early June,750,6 months,no,2 bathroom,2.5 miles,5,4BHK house with backyard,Call/text 857-992-3401,yes,included,in unit,backyard included
+4/22/24 9:00 PM,offering,shared,any,non-veg,partially,,Allston,June 15,500,12 months,partial,shared,2.1 miles,3,Shared room in party-friendly area,alex.martinez@gmail.com,included,yes,shared,near bars
+4/22/24 10:15 PM,looking,private,female,,yes,no,Brookline,May 1,$800,flexible,included,private,1.7 miles,1,Private room with own bathroom,priyanka_bkln@northeastern.edu,needed,needed,prefer in unit,Safe neighborhood
+4/23/24 7:20 AM,offering,1 bed,mixed,veg,furnished,,Back Bay,ASAP,1100,9 months,yes,private,1.0 miles,1,Luxury 1BR in Back Bay,contact.backbay@gmail.com,yes,included,In-unit,Doorman building
+4/23/24 8:30 AM,offering,3bhk,male,vegetarian,no,no,Roxbury,mid June,650,12 months,no,shared,1.4 miles,4,3BHK vegetarian household,deepak.kumar@hotmail.com,yes,yes,building,vegetarian cooking
+4/23/24 9:45 AM,looking,shared,female,,yes,,Mission Hill,June 1,460,6 months,partial,shared,0.8 miles,2,Female student looking for roommate,meghana.reddy@gmail.com,yes,included,available,Clean environment
+4/23/24 11:00 AM,offering,2 bed,,non-veg,furnished,yes,Fenway,May 15,$575,flexible,,shared,0.5 miles,2,2BR furnished apartment available,8573348821,Yes,yes,in building,near ballpark
+4/23/24 12:15 PM,offering,private,male,veg,yes,no,Cambridge,available now,850,12 months,included,private,3.2 miles,1,Private room near Harvard,vikas.sharma@gmail.com,included,included,yes,Quiet study environment
+4/23/24 1:30 PM,looking,4 bed,mixed,,no,,Brighton,early May,550,9 months,no,shared,2.8 miles,4,4BR for undergraduate students,student.group.housing@yahoo.com,yes,yes,prefer yes,near T station
+4/23/24 2:40 PM,offering,studio,female,vegetarian,furnished,,Longwood,June 15,1000,6 months,yes,private,0.3 miles,1,Studio in medical area,dr.patel.rental@gmail.com,yes,Included,in-unit,Medical students preferred
+4/23/24 3:55 PM,offering,shared,any,,partially,no,Allston,May 20,500,12 months,partial,shared,2.0 miles,2,Room in shared apartment,jay.patel23@gmail.com,included,included,coin-op,WiFi included
+4/23/24 5:10 PM,looking,2bhk,male,non-veg,yes,,Roxbury,ASAP,$650,flexible,,shared,1.2 miles,2-3,2BHK needed immediately,urgent.housing.ne@gmail.com,required,required,yes,Flexible lease
+4/23/24 6:25 PM,offering,3 bed,female,veg,furnished,yes,Jamaica Plain,mid May,710,9 months,no,2 bathroom,2.6 miles,3,3BR female household,girls.housing.jp@gmail.com,yes,yes,in building,Female only house
+4/23/24 7:35 PM,offering,private,,no preference,no,,Mission Hill,June 1,750,12 months,included,private,0.7 miles,1,Private room in modern building,Text 857-223-9045,Yes,included,yes,24hr security
+4/23/24 8:50 PM,looking,1 bed,mixed,,yes,no,Fenway,May 1,$900,6 months,yes,private,0.6 miles,1,1BR near Fenway Park,baseball.fan.housing@gmail.com,yes,yes,in unit,Love sports
+4/24/24 7:10 AM,offering,4bhk,male,veg,furnished,,Back Bay,available now,1200,flexible,,2 bathroom,1.1 miles,5,Luxury 4BHK in prime location,luxury.rentals.boston@gmail.com,included,included,In-unit,concierge service
+4/24/24 8:25 AM,offering,shared,female,,partially,yes,Brookline,June 15,550,12 months,partial,shared,1.8 miles,2,Shared room near Coolidge Corner,natasha.brookline@yahoo.com,yes,included,building,near shops
+4/24/24 9:40 AM,looking,2 bed,,vegetarian,yes,no,Cambridge,early June,800,9 months,included,shared,3.0 miles,2,2BR vegetarian household wanted,veg.housing.search@gmail.com,yes,yes,yes,Vegetarian only
+4/24/24 10:50 AM,offering,3bhk,mixed,non-veg,no,,Roxbury,May 20,$575,6 months,no,shared,1.3 miles,4,3BHK apartment near orange line,transit.housing@hotmail.com,yes,Yes,shared facility,T accessible
+4/24/24 12:05 PM,offering,private,male,,furnished,,Allston,ASAP,650,12 months,yes,private,2.1 miles,1,Furnished private room available now,(857)334-2190,yes,included,available,near BU
+4/24/24 1:20 PM,looking,studio,female,veg,yes,no,Mission Hill,mid June,950,flexible,partial,private,0.8 miles,1,Clean studio for female student,simran.mission.hill@gmail.com,needed,needed,prefer yes,Safe area important
+4/24/24 2:35 PM,offering,shared,any,non-veg,partially,,Fenway,June 1,500,9 months,,shared,0.5 miles,3,Shared accommodation near stadium,fenway.student.housing@gmail.com,included,yes,coin laundry,game day noise
+4/24/24 3:45 PM,offering,4 bed,male,,yes,yes,Brighton,May 15,450,12 months,no,shared,2.7 miles,5,Large 4BR house with parking,big.house.brighton@yahoo.com,yes,included,basement,driveway parking
+4/24/24 5:00 PM,looking,2bhk,female,vegetarian,furnished,,Jamaica Plain,available now,$750,6 months,included,shared,2.5 miles,2,2BHK for two female professionals,professional.housing.jp@gmail.com,yes,yes,in unit,Working professionals
+4/24/24 6:15 PM,offering,1 bed,mixed,,no,no,Longwood,early May,900,flexible,,private,0.4 miles,1,1BR near medical campus,medical.area.rentals@gmail.com,Yes,included,coin-op,Medical students
+4/24/24 7:30 PM,offering,private,male,veg,yes,,Roxbury,June 15,710,12 months,no,private,1.4 miles,1,Private room with attached bath,exclusive.room.rox@gmail.com,yes,yes,yes,Private entrance
+4/24/24 8:40 PM,looking,3 bed,,non-veg,furnished,yes,Back Bay,May 1,$1000,9 months,yes,shared,1.0 miles,3,3BR luxury apartment wanted,857-445-8823,required,required,must have,Luxury amenities
+4/24/24 9:55 PM,offering,shared,female,veg,partially,,Cambridge,ASAP,500,6 months,partial,shared,3.1 miles,2,Female vegetarian roommate wanted,veg.cambridge.housing@gmail.com,included,included,shared,No meat cooking
+4/25/24 7:25 AM,offering,studio,,no preference,yes,no,Mission Hill,mid May,1050,12 months,included,private,0.7 miles,1,Modern studio with city views,city.view.studios@gmail.com,yes,Included,in-unit,Rooftop access
+4/25/24 8:35 AM,looking,2 bed,mixed,,furnished,,Fenway,June 1,600,flexible,,shared,0.6 miles,2,2BR for couple near Fenway,couples.housing.fenway@yahoo.com,yes,yes,yes,Pet friendly
+4/25/24 9:50 AM,offering,4bhk,male,veg,no,yes,Brookline,May 20,$850,9 months,no,2 bathroom,1.7 miles,5,4BHK vegetarian house,veg.house.brookline@gmail.com,yes,yes,in building,Vegetarian household
+4/25/24 11:05 AM,offering,private,female,vegetarian,yes,,Allston,available now,750,12 months,yes,private,2.0 miles,1,Private room for female student,female.private.allston@gmail.com,included,included,available,Safe and quiet
+4/25/24 12:20 PM,looking,shared,any,,partially,no,Roxbury,early June,450,6 months,partial,shared,1.2 miles,2,Affordable shared room needed,budget.housing.search@gmail.com,yes,included,any,Budget friendly
+4/25/24 1:30 PM,offering,3bhk,male,non-veg,furnished,,Jamaica Plain,June 15,710,flexible,,shared,2.6 miles,4,3BHK with outdoor space,outdoor.space.jp@hotmail.com,yes,yes,in building,patio access
+4/25/24 2:45 PM,offering,1 bed,female,veg,no,no,Brighton,May 1,900,12 months,included,private,2.8 miles,1,1BR in Brighton Center,brighton.center.apt@gmail.com,Yes,included,yes,Near green line
+4/25/24 4:00 PM,looking,4 bed,mixed,,yes,,Cambridge,ASAP,$550,9 months,no,shared,3.0 miles,4,Budget 4BR near Harvard,harvard.student.housing@gmail.com,yes,yes,shared,Students only
+4/25/24 5:15 PM,offering,2bhk,,vegetarian,furnished,yes,Mission Hill,mid June,650,6 months,partial,shared,0.8 miles,2,2BHK vegetarian apartment,veg.mission.hill@yahoo.com,included,yes,coin-op,Vegetarian cooking
+4/25/24 6:25 PM,offering,shared,male,,partially,,Fenway,June 1,500,12 months,,shared,0.5 miles,3,Male roommate needed,guys.fenway.apt@gmail.com,yes,included,building,Guys apartment
+4/25/24 7:40 PM,looking,private,female,non-veg,yes,no,Back Bay,May 15,$1100,flexible,yes,private,1.1 miles,1,Luxury private room wanted,luxury.seeker.bb@gmail.com,required,required,in-unit required,High-end amenities
+4/25/24 8:55 PM,offering,studio,any,veg,furnished,,Longwood,available now,1000,9 months,included,private,0.3 miles,1,Studio near hospitals,hospital.area.studio@gmail.com,yes,included,yes,Medical professionals
+4/25/24 10:10 PM,offering,3 bed,male,,no,,Roxbury,early May,575,12 months,no,shared,1.3 miles,4,3BR student apartment,student.rox.housing@hotmail.com,yes,yes,shared,Student building
+4/26/24 7:15 AM,looking,2 bed,female,vegetarian,yes,yes,Allston,June 15,650,6 months,partial,shared,2.1 miles,2,2BR for female vegetarians,female.veg.housing@gmail.com,yes,included,yes,Vegetarian females
+4/26/24 8:30 AM,offering,4bhk,mixed,,furnished,,Jamaica Plain,May 20,$750,flexible,,2 bathroom,2.5 miles,5,Large 4BHK for students,large.student.house@yahoo.com,yes,Yes,In-unit,Student house
+4/26/24 9:40 AM,offering,shared,,non-veg,partially,no,Cambridge,ASAP,500,12 months,no,shared,3.2 miles,2,Shared room available now,cambridge.share.room@gmail.com,included,included,building,near MIT
+4/26/24 10:55 AM,looking,private,male,veg,yes,,Mission Hill,mid May,750,9 months,included,private,0.7 miles,1,Private vegetarian accommodation,veg.private.search@gmail.com,needed,needed,prefer yes,Veg kitchen only
+4/26/24 12:10 PM,offering,1 bed,female,,furnished,yes,Fenway,June 1,900,6 months,yes,private,0.6 miles,1,Furnished 1BR for female,female.fenway.apt@gmail.com,yes,included,in-unit,Female preferred
+4/26/24 1:25 PM,offering,3bhk,any,vegetarian,no,,Brookline,May 1,$710,12 months,,shared,1.8 miles,3,3BHK in Brookline,brookline.3bhk@hotmail.com,Yes,yes,building,Near Coolidge
+4/26/24 2:35 PM,looking,studio,mixed,,yes,no,Back Bay,available now,1050,flexible,partial,private,1.0 miles,1,Studio for young professional,young.professional.bb@gmail.com,yes,yes,in unit,Working professional
+4/26/24 3:50 PM,offering,2 bed,male,non-veg,furnished,,Brighton,early June,600,9 months,no,shared,2.7 miles,2,2BR for male students,male.students.brighton@gmail.com,yes,included,shared,Male students
+4/26/24 5:05 PM,offering,shared,female,veg,partially,yes,Roxbury,June 15,450,12 months,included,shared,1.4 miles,2,Female vegetarian shared room,female.veg.shared@yahoo.com,yes,yes,available,Veg females only
+4/26/24 6:20 PM,looking,4 bed,,no preference,yes,,Longwood,May 20,$650,6 months,yes,shared,0.4 miles,4-5,4BR near medical campus,(617)445-9921,required,required,yes,Medical students
+4/26/24 7:30 PM,offering,private,male,,furnished,no,Allston,ASAP,850,flexible,,private,2.0 miles,1,Private furnished room,private.allston.male@gmail.com,yes,Included,coin laundry,Male students
+4/26/24 8:45 PM,offering,2bhk,female,veg,no,,Jamaica Plain,mid June,575,12 months,no,shared,2.6 miles,2,2BHK in JP for females,jp.female.housing@gmail.com,yes,yes,building,Female household
+4/26/24 10:00 PM,looking,3 bed,mixed,vegetarian,yes,yes,Cambridge,June 1,710,9 months,partial,shared,3.0 miles,3,3BR vegetarian apartment,veg.cambridge.search@gmail.com,yes,included,prefer yes,Veg household
+4/27/24 7:20 AM,offering,studio,any,,furnished,,Mission Hill,May 15,$1000,6 months,included,private,0.8 miles,1,Furnished studio available,mission.studio.rental@gmail.com,included,included,in-unit,Modern amenities
+4/27/24 8:35 AM,offering,shared,male,non-veg,partially,no,Fenway,available now,500,12 months,yes,shared,0.5 miles,3,Male shared accommodation,fenway.male.share@hotmail.com,yes,included,shared,Near T
+4/27/24 9:45 AM,looking,1 bed,female,,yes,,Back Bay,early May,950,flexible,,private,1.1 miles,1,1BR for working woman,professional.woman.bb@gmail.com,yes,yes,in unit,Professional setting
+4/27/24 11:00 AM,offering,4bhk,mixed,veg,furnished,yes,Brookline,June 15,$850,9 months,no,2 bathroom,1.7 miles,5,4BHK vegetarian household,veg.4bhk.brookline@gmail.com,yes,yes,in-unit,Veg household
+4/27/24 12:15 PM,offering,private,,vegetarian,no,,Roxbury,May 1,750,12 months,included,private,1.2 miles,1,Private room vegetarian house,private.veg.rox@yahoo.com,Yes,included,building,Veg cooking
+4/27/24 1:30 PM,looking,2 bed,male,,yes,no,Brighton,ASAP,600,6 months,partial,shared,2.8 miles,2,2BR for male students needed,male.student.housing@gmail.com,yes,yes,any,Need immediately
+4/27/24 2:40 PM,offering,3bhk,female,non-veg,furnished,,Allston,mid May,$710,flexible,,shared,2.1 miles,3,3BHK for female students,female.3bhk.allston@gmail.com,yes,Yes,in building,Female only
+4/27/24 3:55 PM,offering,shared,any,veg,partially,yes,Cambridge,June 1,500,12 months,no,shared,3.1 miles,2,Veg shared accommodation,veg.shared.cambridge@hotmail.com,included,included,coin-op,Veg kitchen
+4/27/24 5:10 PM,looking,studio,mixed,,yes,,Mission Hill,May 20,1050,9 months,yes,private,0.7 miles,1,Modern studio wanted,modern.studio.search@gmail.com,required,required,yes,Modern building
+4/27/24 6:25 PM,offering,4 bed,male,vegetarian,furnished,no,Jamaica Plain,available now,$450,6 months,included,shared,2.5 miles,5,Budget 4BR vegetarian,budget.veg.jp@yahoo.com,yes,yes,shared,Vegetarian house
+4/27/24 7:35 PM,offering,2bhk,female,,no,,Fenway,early June,650,12 months,,shared,0.6 miles,2,2BHK near Fenway Park,fenway.2bhk.rental@gmail.com,yes,included,building,Near stadium
+4/27/24 8:50 PM,looking,private,,non-veg,yes,yes,Longwood,June 15,900,flexible,partial,private,0.3 miles,1,Private luxury room,luxury.private.search@gmail.com,yes,yes,in-unit,High-end
+4/28/24 7:10 AM,offering,1 bed,male,veg,furnished,,Back Bay,May 1,$1100,9 months,no,private,1.0 miles,1,1BR vegetarian apartment,veg.1br.backbay@gmail.com,yes,Included,in-unit,Veg household
+4/28/24 8:25 AM,offering,shared,any,,partially,no,Roxbury,ASAP,500,12 months,included,shared,1.3 miles,2,Shared room near campus,near.campus.share@hotmail.com,yes,yes,building,Close to NEU
+4/28/24 9:40 AM,looking,3 bed,female,vegetarian,yes,,Brookline,mid June,710,6 months,yes,shared,1.8 miles,3,3BR for female vegetarians,female.veg.3br@gmail.com,needed,needed,yes,Female veg only
+4/28/24 10:50 AM,offering,4bhk,mixed,,furnished,yes,Brighton,June 1,$750,flexible,,2 bathroom,2.7 miles,5,Large 4BHK student house,student.house.brighton@yahoo.com,yes,yes,In-unit,Party friendly
+4/28/24 12:05 PM,offering,studio,male,non-veg,no,,Allston,May 15,1000,12 months,partial,private,2.0 miles,1,Studio for male student,male.studio.allston@gmail.com,Yes,included,coin-op,Male student
+4/28/24 1:20 PM,looking,2 bed,female,veg,yes,no,Cambridge,available now,600,9 months,no,shared,3.2 miles,2,2BR for veg females,veg.female.cambridge@gmail.com,yes,yes,prefer yes,Veg females
+4/28/24 2:35 PM,offering,private,,no preference,furnished,,Mission Hill,early May,$850,6 months,included,private,0.8 miles,1,Private room in modern apt,modern.private.mh@gmail.com,included,included,yes,Modern building
+4/28/24 3:45 PM,offering,3bhk,any,,partially,yes,Jamaica Plain,June 15,710,12 months,yes,shared,2.6 miles,4,3BHK with parking,parking.3bhk.jp@hotmail.com,yes,included,building,Parking included
+4/28/24 5:00 PM,looking,shared,male,veg,yes,,Fenway,May 20,450,flexible,partial,shared,0.5 miles,2,Veg male roommate wanted,veg.male.fenway@gmail.com,yes,yes,any,Veg male only
+4/28/24 6:15 PM,offering,1 bed,female,vegetarian,furnished,no,Longwood,ASAP,$900,9 months,,private,0.4 miles,1,1BR for female near hospital,female.longwood.apt@gmail.com,yes,Yes,in-unit,Hospital area
+4/28/24 7:30 PM,offering,4 bed,mixed,,no,,Back Bay,mid May,550,12 months,no,shared,1.1 miles,5,Budget 4BR Back Bay,budget.backbay.4br@yahoo.com,yes,yes,shared,Student friendly
+4/28/24 8:40 PM,looking,2bhk,,non-veg,yes,yes,Roxbury,June 1,650,6 months,included,shared,1.4 miles,2-3,2BHK near T station,t.station.housing@gmail.com,required,required,yes,Transit accessible
+4/28/24 9:55 PM,offering,private,male,veg,furnished,,Brookline,May 1,$800,flexible,yes,private,1.7 miles,1,Private veg room for male,male.veg.private.bkln@gmail.com,yes,included,available,Veg household
+4/29/24 7:25 AM,offering,studio,female,,partially,no,Brighton,available now,1050,12 months,partial,private,2.8 miles,1,Studio for female student,female.studio.brighton@gmail.com,included,yes,coin-op,Female preferred
+4/29/24 8:35 AM,looking,shared,any,vegetarian,yes,,Allston,early June,500,9 months,,shared,2.1 miles,2,Veg shared room needed,veg.shared.search@hotmail.com,yes,included,yes,Veg cooking
+4/29/24 9:50 AM,offering,3 bed,male,,furnished,yes,Cambridge,June 15,$575,6 months,no,shared,3.0 miles,4,3BR for male students,male.cambridge.3br@gmail.com,yes,yes,building,Male students
+4/29/24 11:05 AM,offering,4bhk,mixed,non-veg,no,,Jamaica Plain,May 20,750,12 months,included,2 bathroom,2.5 miles,5,4BHK house with yard,yard.house.jp@yahoo.com,yes,included,in-unit,Backyard
+4/29/24 12:20 PM,looking,2 bed,female,veg,yes,no,Mission Hill,ASAP,650,flexible,yes,shared,0.7 miles,2,2BR veg female apartment,veg.female.mh@gmail.com,needed,needed,prefer yes,Veg females
+4/29/24 1:30 PM,offering,private,,no preference,furnished,,Fenway,mid June,$900,9 months,partial,private,0.6 miles,1,Private room Fenway area,fenway.private.room@gmail.com,yes,Yes,building,Near ballpark
+4/29/24 2:45 PM,offering,1 bed,male,,partially,yes,Longwood,June 1,1100,6 months,,private,0.3 miles,1,1BR near medical campus,medical.1br.rental@hotmail.com,included,included,coin-op,Medical area
+4/29/24 4:00 PM,looking,3bhk,female,veg,yes,,Back Bay,May 1,710,12 months,no,shared,1.0 miles,3,3BHK for female veg students,female.veg.3bhk@gmail.com,yes,yes,in unit,Veg females
+4/29/24 5:15 PM,offering,shared,any,vegetarian,furnished,no,Roxbury,available now,$450,flexible,included,shared,1.2 miles,2,Veg shared accommodation,veg.share.rox@yahoo.com,yes,included,available,Veg cooking
+4/29/24 6:25 PM,offering,studio,mixed,,no,,Brookline,early May,1000,9 months,yes,private,1.8 miles,1,Studio in Brookline,brookline.studio.apt@gmail.com,Yes,included,yes,Near Coolidge
+4/29/24 7:40 PM,looking,4 bed,male,non-veg,yes,yes,Brighton,June 15,550,6 months,partial,shared,2.7 miles,4,4BR for male students,male.4br.brighton@gmail.com,yes,yes,prefer yes,Male students
+4/29/24 8:55 PM,offering,2bhk,female,,furnished,,Allston,May 20,$650,12 months,,shared,2.0 miles,2,2BHK for female students,female.2bhk.allston@hotmail.com,yes,included,building,Female household
+4/29/24 10:10 PM,offering,private,,veg,partially,no,Cambridge,ASAP,850,flexible,no,private,3.1 miles,1,Private veg accommodation,private.veg.cambridge@gmail.com,included,Yes,coin laundry,Veg household
+4/30/24 7:15 AM,looking,1 bed,male,vegetarian,yes,,Mission Hill,mid May,900,9 months,included,private,0.8 miles,1,1BR veg male apartment,veg.male.1br@gmail.com,required,required,yes,Veg male only
+4/30/24 8:30 AM,offering,3 bed,any,,furnished,yes,Jamaica Plain,June 1,$710,6 months,yes,shared,2.6 miles,4,3BR furnished apartment,furnished.3br.jp@yahoo.com,yes,yes,in building,Furnished
+4/30/24 9:40 AM,offering,shared,female,non-veg,no,,Fenway,May 15,500,12 months,partial,shared,0.5 miles,2,Female shared room Fenway,female.share.fenway@gmail.com,yes,included,shared,Female roommate
+4/30/24 10:55 AM,looking,4bhk,mixed,,yes,no,Longwood,available now,750,flexible,,2 bathroom,0.4 miles,4-5,Large 4BHK needed,large.apartment.search@gmail.com,yes,yes,in-unit,Spacious needed
+4/30/24 12:10 PM,offering,studio,male,veg,furnished,,Back Bay,early June,$1050,9 months,no,private,1.1 miles,1,Veg studio for male,veg.studio.male@hotmail.com,yes,Included,in-unit,Veg male
+4/30/24 1:25 PM,offering,2 bed,,no preference,partially,yes,Roxbury,June 15,600,12 months,included,shared,1.3 miles,2,2BR near NEU campus,near.neu.2br@gmail.com,yes,yes,building,Near campus
+4/30/24 2:35 PM,looking,private,female,,yes,,Brookline,May 1,800,6 months,yes,private,1.7 miles,1,Private room for female,female.private.search@gmail.com,needed,needed,prefer yes,Female only
+4/30/24 3:50 PM,offering,3bhk,male,veg,furnished,no,Brighton,ASAP,$575,flexible,partial,shared,2.8 miles,4,3BHK veg male household,veg.male.3bhk@yahoo.com,yes,yes,building,Veg males
+4/30/24 5:05 PM,offering,shared,any,vegetarian,no,,Allston,mid June,450,12 months,,shared,2.1 miles,2,Veg shared room Allston,veg.allston.share@gmail.com,yes,included,coin-op,Veg household
+4/30/24 6:20 PM,looking,1 bed,female,,yes,yes,Cambridge,June 1,950,9 months,no,private,3.0 miles,1,1BR for female professional,professional.female.cambridge@gmail.com,yes,yes,in-unit,Professional
+4/30/24 7:30 PM,offering,4 bed,mixed,non-veg,furnished,,Mission Hill,May 20,$550,6 months,included,shared,0.7 miles,5,4BR student apartment,student.4br.mh@hotmail.com,yes,included,shared,Students
+4/30/24 8:45 PM,offering,2bhk,male,,partially,no,Jamaica Plain,available now,650,12 months,yes,shared,2.5 miles,2,2BHK for male students,male.2bhk.jp@gmail.com,yes,yes,building,Male household
+4/30/24 10:00 PM,looking,studio,,veg,yes,,Fenway,early May,1000,flexible,partial,private,0.6 miles,1,Veg studio apartment,veg.studio.fenway@gmail.com,yes,yes,in unit,Veg cooking
+5/1/24 7:20 AM,offering,private,female,vegetarian,furnished,yes,Longwood,June 15,$900,9 months,,private,0.3 miles,1,Private veg room female,female.veg.private@yahoo.com,included,Yes,in-unit,Veg female
+5/1/24 8:35 AM,offering,3 bed,any,,no,,Back Bay,May 1,710,12 months,no,shared,1.0 miles,4,3BR Back Bay apartment,backbay.3br.apt@gmail.com,yes,yes,building,Prime location
+5/1/24 9:45 AM,looking,shared,male,non-veg,yes,no,Roxbury,ASAP,500,6 months,included,shared,1.4 miles,2,Male shared room needed,male.share.needed@hotmail.com,yes,included,any,Need now
+5/1/24 11:00 AM,offering,4bhk,female,,furnished,,Brookline,mid May,$850,flexible,yes,2 bathroom,1.8 miles,5,4BHK for female students,female.4bhk.brookline@gmail.com,yes,yes,in-unit,Female house
+5/1/24 12:15 PM,offering,1 bed,mixed,veg,partially,yes,Brighton,June 1,1100,9 months,partial,private,2.7 miles,1,1BR veg apartment,veg.1br.brighton@yahoo.com,included,yes,coin-op,Veg cooking
+5/1/24 1:30 PM,looking,2 bed,,no preference,yes,,Allston,May 15,600,12 months,,shared,2.0 miles,2,2BR near BU campus,bu.area.housing@gmail.com,yes,yes,yes,Near BU
+5/1/24 2:40 PM,offering,studio,male,,furnished,no,Cambridge,available now,$1050,6 months,no,private,3.2 miles,1,Studio for male near MIT,male.mit.studio@gmail.com,yes,Included,building,Near MIT
+5/1/24 3:55 PM,offering,3bhk,female,veg,no,,Mission Hill,early June,710,flexible,included,shared,0.8 miles,3,3BHK veg female apartment,veg.female.3bhk@hotmail.com,yes,yes,building,Veg females
+5/1/24 5:10 PM,looking,private,any,vegetarian,yes,yes,Jamaica Plain,June 15,850,9 months,yes,private,2.6 miles,1,Private veg room wanted,veg.private.wanted@gmail.com,needed,needed,prefer yes,Veg household
+5/1/24 6:25 PM,offering,shared,male,,partially,,Fenway,May 20,$450,12 months,partial,shared,0.5 miles,3,Male shared Fenway,male.fenway.shared@yahoo.com,yes,included,shared,Male roommates
+5/1/24 7:35 PM,offering,4 bed,female,non-veg,furnished,no,Longwood,ASAP,550,6 months,,shared,0.4 miles,5,4BR for female students,female.4br.longwood@gmail.com,yes,yes,building,Female students
+5/1/24 8:50 PM,looking,2bhk,mixed,,yes,,Back Bay,mid June,650,flexible,partial,shared,1.1 miles,2-3,2BHK in Back Bay,backbay.2bhk.search@gmail.com,yes,yes,in unit,Central location
+5/2/24 7:10 AM,offering,1 bed,,veg,furnished,yes,Roxbury,June 1,$900,12 months,included,private,1.2 miles,1,1BR veg apartment Roxbury,veg.1br.rox@hotmail.com,yes,included,yes,Veg household
+5/2/24 8:25 AM,offering,studio,male,vegetarian,partially,,Brookline,May 1,1000,9 months,yes,private,1.7 miles,1,Veg studio for male,veg.male.studio@gmail.com,Yes,yes,in-unit,Veg male
+5/2/24 9:40 AM,looking,3 bed,female,,yes,no,Brighton,available now,575,6 months,partial,shared,2.8 miles,3,3BR for female students,female.3br.brighton@yahoo.com,yes,yes,prefer yes,Female students
+5/2/24 10:50 AM,offering,shared,any,non-veg,furnished,,Allston,early May,$500,12 months,,shared,2.1 miles,2,Shared room Allston,allston.shared.room@gmail.com,yes,included,coin-op,Near T
+5/2/24 12:05 PM,offering,4bhk,male,,no,yes,Cambridge,June 15,750,flexible,no,2 bathroom,3.0 miles,5,4BHK for male students,male.4bhk.cambridge@hotmail.com,yes,yes,In-unit,Male house
+5/2/24 1:20 PM,looking,private,female,veg,yes,,Mission Hill,May 20,800,9 months,included,private,0.7 miles,1,Private veg room for female,female.veg.private.mh@gmail.com,required,required,yes,Veg female
+5/2/24 2:35 PM,offering,2 bed,mixed,no preference,furnished,no,Jamaica Plain,ASAP,$650,6 months,yes,shared,2.5 miles,2,2BR furnished JP,furnished.2br.jp@yahoo.com,yes,yes,building,Furnished
+5/2/24 3:45 PM,offering,3bhk,,vegetarian,partially,,Fenway,mid May,710,12 months,partial,shared,0.6 miles,4,3BHK veg apartment,veg.3bhk.fenway@gmail.com,included,yes,coin-op,Veg cooking
+5/2/24 5:00 PM,looking,studio,male,,yes,yes,Longwood,June 1,1050,flexible,,private,0.3 miles,1,Studio near hospitals,hospital.studio.search@gmail.com,yes,yes,in-unit,Medical area
+5/2/24 6:15 PM,offering,1 bed,female,veg,furnished,,Back Bay,May 15,$1100,9 months,no,private,1.0 miles,1,1BR veg for female,female.veg.1br@hotmail.com,yes,Included,in-unit,Veg female
+5/2/24 7:30 PM,offering,shared,any,,no,no,Roxbury,available now,450,12 months,included,shared,1.3 miles,2,Shared room near NEU,neu.shared.room@gmail.com,yes,yes,building,Near campus
+5/2/24 8:40 PM,looking,4 bed,male,non-veg,yes,,Brookline,early June,550,6 months,yes,shared,1.8 miles,4,4BR for male students,male.4br.search@yahoo.com,yes,included,prefer yes,Male students
+5/2/24 9:55 PM,offering,2bhk,female,,furnished,yes,Brighton,June 15,$650,flexible,partial,shared,2.7 miles,2,2BHK for females,female.2bhk.brighton@gmail.com,yes,yes,building,Female household
+5/3/24 7:25 AM,offering,private,mixed,veg,partially,,Allston,May 1,850,12 months,,private,2.0 miles,1,Private veg room Allston,veg.private.allston@hotmail.com,included,Yes,coin laundry,Veg household
+5/3/24 8:35 AM,looking,3 bed,,vegetarian,yes,no,Cambridge,ASAP,710,9 months,no,shared,3.1 miles,3,3BR veg apartment wanted,veg.3br.cambridge@gmail.com,needed,needed,yes,Veg household
+5/3/24 9:50 AM,offering,studio,male,,furnished,,Mission Hill,mid June,$1000,6 months,included,private,0.8 miles,1,Studio for male student,male.studio.mh@yahoo.com,yes,included,in-unit,Male student
+5/3/24 11:05 AM,offering,shared,female,non-veg,no,yes,Jamaica Plain,June 1,500,12 months,yes,shared,2.6 miles,2,Female shared JP,female.shared.jp@gmail.com,yes,included,building,Female roommate
+5/3/24 12:20 PM,looking,1 bed,any,,yes,,Fenway,May 20,900,flexible,partial,private,0.5 miles,1,1BR Fenway area,fenway.1br.search@hotmail.com,yes,yes,in unit,Near stadium
+5/3/24 1:30 PM,offering,4bhk,male,veg,furnished,no,Longwood,available now,$750,9 months,,2 bathroom,0.4 miles,5,4BHK veg male house,veg.male.4bhk@gmail.com,yes,yes,in-unit,Veg males
+5/3/24 2:45 PM,offering,2 bed,female,no preference,partially,,Back Bay,early May,600,12 months,no,shared,1.1 miles,2,2BR for female students,female.2br.backbay@yahoo.com,yes,Yes,shared,Female students
+5/3/24 4:00 PM,looking,private,,vegetarian,yes,yes,Roxbury,June 15,800,6 months,included,private,1.4 miles,1,Private veg room needed,veg.private.rox@gmail.com,required,required,yes,Veg cooking
+5/3/24 5:15 PM,offering,3bhk,mixed,,furnished,,Brookline,May 1,$710,flexible,yes,shared,1.7 miles,4,3BHK furnished Brookline,furnished.3bhk.bkln@hotmail.com,yes,included,building,Furnished
+5/3/24 6:25 PM,offering,studio,male,veg,no,no,Brighton,ASAP,1050,9 months,partial,private,2.8 miles,1,Veg studio male Brighton,veg.male.brighton@gmail.com,included,yes,coin-op,Veg male
+5/3/24 7:40 PM,looking,shared,female,,yes,,Allston,mid May,450,12 months,,shared,2.1 miles,2,Female shared room wanted,female.share.allston@yahoo.com,yes,included,any,Female student
+5/3/24 8:55 PM,offering,4 bed,any,non-veg,furnished,yes,Cambridge,June 1,$550,6 months,no,shared,3.0 miles,5,4BR student house,student.4br.cambridge@gmail.com,yes,yes,building,Student house
+5/3/24 10:10 PM,offering,2bhk,male,,partially,,Mission Hill,May 15,650,flexible,included,shared,0.7 miles,2,2BHK for male students,male.2bhk.mh@hotmail.com,yes,included,coin-op,Male students
+5/4/24 7:15 AM,looking,1 bed,female,veg,yes,no,Jamaica Plain,available now,950,9 months,yes,private,2.5 miles,1,1BR veg for female,female.veg.1br.jp@gmail.com,needed,needed,prefer yes,Veg female
+5/4/24 8:30 AM,offering,private,mixed,vegetarian,furnished,,Fenway,early June,$900,12 months,partial,private,0.6 miles,1,Private veg room Fenway,veg.private.fenway@yahoo.com,yes,Yes,building,Veg household
+5/4/24 9:40 AM,offering,3 bed,,no preference,no,yes,Longwood,June 15,575,6 months,,shared,0.3 miles,4,3BR near hospitals,hospital.3br.apt@gmail.com,yes,yes,shared,Medical area
+5/4/24 10:55 AM,looking,studio,male,,yes,,Back Bay,May 20,1100,flexible,no,private,1.0 miles,1,Studio for professional male,professional.male.studio@hotmail.com,yes,yes,in-unit,Professional
+5/4/24 12:10 PM,offering,shared,female,veg,furnished,no,Roxbury,ASAP,$500,12 months,included,shared,1.2 miles,2,Veg female shared room,veg.female.share@gmail.com,yes,included,available,Veg females
+5/4/24 1:25 PM,offering,4bhk,any,,partially,,Brookline,mid June,850,9 months,yes,2 bathroom,1.8 miles,5,Large 4BHK Brookline,large.4bhk.brookline@yahoo.com,yes,yes,in-unit,Spacious
+5/4/24 2:35 PM,looking,2 bed,male,non-veg,yes,yes,Brighton,June 1,650,6 months,partial,shared,2.7 miles,2,2BR for male students,male.2br.brighton@gmail.com,yes,yes,prefer yes,Male students
+5/4/24 3:50 PM,offering,3bhk,female,,furnished,,Allston,May 1,$710,12 months,,shared,2.0 miles,3,3BHK for female students,female.3bhk.allston@hotmail.com,yes,included,building,Female household
+5/4/24 5:05 PM,offering,1 bed,mixed,veg,no,no,Cambridge,available now,1100,flexible,no,private,3.2 miles,1,1BR veg apartment,veg.1br.cambridge@gmail.com,yes,Yes,coin laundry,Veg cooking
+5/4/24 6:20 PM,looking,private,,vegetarian,yes,,Mission Hill,early May,800,9 months,included,private,0.8 miles,1,Private veg accommodation,veg.private.search.mh@yahoo.com,needed,needed,yes,Veg household
+5/4/24 7:30 PM,offering,studio,male,,furnished,yes,Jamaica Plain,June 15,$1050,6 months,yes,private,2.6 miles,1,Furnished studio male JP,male.studio.jp@gmail.com,yes,included,in-unit,Male student
+5/4/24 8:45 PM,offering,shared,female,non-veg,partially,,Fenway,May 20,450,12 months,partial,shared,0.5 miles,2,Female shared Fenway,female.fenway.share@hotmail.com,yes,yes,shared,Female roommate
+5/4/24 10:00 PM,looking,4 bed,any,,yes,no,Longwood,ASAP,550,flexible,,shared,0.4 miles,4,4BR near medical campus,medical.4br.search@gmail.com,yes,yes,in unit,Medical students
+5/5/24 7:20 AM,offering,2bhk,male,veg,furnished,,Back Bay,mid May,$650,9 months,no,shared,1.1 miles,2,2BHK veg for males,veg.male.2bhk@yahoo.com,yes,Included,building,Veg males
+5/5/24 8:35 AM,offering,private,female,no preference,no,yes,Roxbury,June 1,850,12 months,included,private,1.3 miles,1,Private room for female,female.private.rox@gmail.com,yes,yes,available,Female student
+5/5/24 9:45 AM,looking,3 bed,mixed,,yes,,Brookline,May 15,710,6 months,yes,shared,1.7 miles,3,3BR in Brookline,brookline.3br.search@hotmail.com,needed,needed,prefer yes,Near Coolidge
+5/5/24 11:00 AM,offering,studio,,veg,furnished,no,Brighton,available now,$1000,flexible,partial,private,2.8 miles,1,Veg studio Brighton,veg.studio.brighton@gmail.com,included,yes,coin-op,Veg cooking
+5/5/24 12:15 PM,offering,1 bed,male,vegetarian,partially,,Allston,early June,900,12 months,,private,2.1 miles,1,1BR veg male Allston,veg.male.1br.allston@yahoo.com,yes,Yes,building,Veg male
+5/5/24 1:30 PM,looking,shared,female,,yes,yes,Cambridge,June 15,500,9 months,no,shared,3.0 miles,2,Female shared Cambridge,female.cambridge.share@gmail.com,yes,yes,yes,Female student
+5/5/24 2:40 PM,offering,4bhk,any,non-veg,furnished,,Mission Hill,May 1,$750,6 months,included,2 bathroom,0.7 miles,5,4BHK student house MH,student.4bhk.mh@hotmail.com,yes,included,in-unit,Student house
+5/5/24 3:55 PM,offering,2 bed,male,,no,no,Jamaica Plain,ASAP,600,12 months,yes,shared,2.5 miles,2,2BR for male students JP,male.2br.jp@gmail.com,yes,yes,building,Male household
+5/5/24 5:10 PM,looking,private,female,veg,yes,,Fenway,mid June,900,flexible,partial,private,0.6 miles,1,Private veg room female,female.veg.fenway@yahoo.com,needed,needed,in unit,Veg female
+5/5/24 6:25 PM,offering,3bhk,mixed,vegetarian,furnished,yes,Longwood,June 1,$710,9 months,,shared,0.3 miles,4,3BHK veg apartment,veg.3bhk.longwood@gmail.com,yes,yes,building,Veg household
+5/5/24 7:35 PM,offering,studio,any,,partially,,Back Bay,May 20,1050,12 months,no,private,1.0 miles,1,Studio Back Bay,backbay.studio.apt@hotmail.com,yes,Included,coin laundry,Prime location
+5/5/24 8:50 PM,looking,shared,male,non-veg,yes,no,Roxbury,available now,450,6 months,included,shared,1.4 miles,2,Male shared room needed,male.share.rox@gmail.com,yes,included,any,Need now
+5/6/24 7:10 AM,offering,1 bed,female,,furnished,,Brookline,early May,$1100,flexible,yes,private,1.8 miles,1,1BR for female Brookline,female.1br.brookline@yahoo.com,yes,yes,in-unit,Female student
+5/6/24 8:25 AM,offering,4 bed,mixed,veg,no,yes,Brighton,June 15,550,9 months,partial,shared,2.7 miles,5,4BR veg student house,veg.4br.brighton@gmail.com,yes,included,shared,Veg household
+5/6/24 9:40 AM,looking,2bhk,,no preference,yes,,Allston,May 1,650,12 months,,shared,2.0 miles,2-3,2BHK Allston area,allston.2bhk.search@hotmail.com,yes,yes,yes,Near BU
+5/6/24 10:50 AM,offering,private,male,,furnished,no,Cambridge,ASAP,$850,6 months,no,private,3.1 miles,1,Private room male Cambridge,male.private.cambridge@gmail.com,yes,Yes,building,Male student
+5/6/24 12:05 PM,offering,3 bed,female,veg,partially,,Mission Hill,mid May,575,flexible,included,shared,0.8 miles,3,3BR veg female apartment,veg.female.3br.mh@yahoo.com,yes,yes,coin-op,Veg females
+5/6/24 1:20 PM,looking,studio,any,vegetarian,yes,yes,Jamaica Plain,June 1,1000,9 months,yes,private,2.6 miles,1,Veg studio wanted,veg.studio.jp@gmail.com,required,required,yes,Veg cooking
+5/6/24 2:35 PM,offering,shared,male,,furnished,,Fenway,May 15,$500,12 months,partial,shared,0.5 miles,3,Male shared Fenway,male.fenway.shared.apt@hotmail.com,yes,included,shared,Male roommates
+5/6/24 3:45 PM,offering,4bhk,female,non-veg,no,no,Longwood,available now,750,6 months,,2 bathroom,0.4 miles,5,4BHK near hospitals,female.4bhk.longwood@gmail.com,yes,yes,building,Female students
+5/6/24 5:00 PM,looking,2 bed,mixed,,yes,,Back Bay,early June,600,flexible,no,shared,1.1 miles,2,2BR Back Bay wanted,backbay.2br.wanted@yahoo.com,yes,yes,in unit,Central location
+5/6/24 6:15 PM,offering,1 bed,,veg,furnished,yes,Roxbury,June 15,$900,12 months,included,private,1.2 miles,1,1BR veg Roxbury,veg.1br.roxbury@gmail.com,yes,included,yes,Veg cooking
+5/6/24 7:30 PM,offering,private,male,vegetarian,partially,,Brookline,May 20,800,9 months,yes,private,1.7 miles,1,Private veg room male,male.veg.brookline@hotmail.com,included,Yes,coin laundry,Veg male
+5/6/24 8:40 PM,looking,3bhk,female,,yes,no,Brighton,ASAP,710,6 months,partial,shared,2.8 miles,3,3BHK for female students,female.3bhk.brighton.search@gmail.com,yes,yes,prefer yes,Female students
+5/6/24 9:55 PM,offering,studio,any,non-veg,furnished,,Allston,mid June,$1050,flexible,,private,2.1 miles,1,Furnished studio Allston,studio.allston.furnished@yahoo.com,yes,included,in-unit,Modern building
+5/7/24 7:25 AM,offering,shared,male,,no,yes,Cambridge,June 1,450,12 months,no,shared,3.0 miles,2,Male shared near MIT,male.mit.shared@gmail.com,yes,yes,building,Near MIT
+5/7/24 8:35 AM,looking,4 bed,female,veg,yes,,Mission Hill,May 1,550,9 months,included,shared,0.7 miles,4,4BR veg female house,veg.female.4br.mh@hotmail.com,needed,needed,yes,Veg females
+5/7/24 9:50 AM,offering,2bhk,mixed,no preference,furnished,no,Jamaica Plain,available now,$650,6 months,yes,shared,2.5 miles,2,2BHK furnished JP,2bhk.furnished.jp@gmail.com,yes,yes,building,Furnished
+5/7/24 11:05 AM,offering,private,,vegetarian,partially,,Fenway,early May,850,12 months,partial,private,0.6 miles,1,Private veg room Fenway,veg.private.fenway.apt@yahoo.com,included,yes,coin-op,Veg household
+5/7/24 12:20 PM,looking,1 bed,male,,yes,yes,Longwood,June 15,1100,flexible,,private,0.3 miles,1,1BR near medical campus,medical.1br.wanted@gmail.com,required,required,in-unit,Medical student
+5/7/24 1:30 PM,offering,3 bed,female,veg,furnished,,Back Bay,May 20,$710,9 months,no,shared,1.0 miles,3,3BR veg female Back Bay,veg.female.backbay@hotmail.com,yes,Included,building,Veg females
+5/7/24 2:45 PM,offering,studio,any,,no,no,Roxbury,ASAP,1000,12 months,included,private,1.3 miles,1,Studio near NEU,studio.neu.rox@gmail.com,yes,yes,coin laundry,Near campus
+5/7/24 4:00 PM,looking,shared,male,non-veg,yes,,Brookline,mid May,500,6 months,yes,shared,1.8 miles,2,Male shared Brookline,male.brookline.share@yahoo.com,yes,included,any,Male student
+5/7/24 5:15 PM,offering,4bhk,female,,furnished,yes,Brighton,June 1,$850,flexible,partial,2 bathroom,2.7 miles,5,4BHK female student house,female.house.brighton@gmail.com,yes,yes,in-unit,Female house
+5/7/24 6:25 PM,offering,2 bed,mixed,veg,partially,,Allston,May 15,600,12 months,,shared,2.0 miles,2,2BR veg apartment,veg.2br.allston@hotmail.com,yes,included,building,Veg cooking
+5/7/24 7:40 PM,looking,private,,vegetarian,yes,no,Cambridge,available now,900,9 months,no,private,3.2 miles,1,Private veg room wanted,veg.private.cambridge.search@gmail.com,needed,needed,yes,Veg household
+5/7/24 8:55 PM,offering,3bhk,male,,furnished,,Mission Hill,early June,$710,6 months,included,shared,0.8 miles,4,3BHK for male students,male.3bhk.mh@yahoo.com,yes,yes,coin-op,Male students
+5/7/24 10:10 PM,offering,1 bed,female,non-veg,no,yes,Jamaica Plain,June 15,1100,12 months,yes,private,2.6 miles,1,1BR for female JP,female.1br.jp@gmail.com,Yes,included,in-unit,Female student
+5/8/24 7:15 AM,looking,studio,any,,yes,,Fenway,May 1,1050,flexible,partial,private,0.5 miles,1,Studio near Fenway Park,fenway.studio.search@hotmail.com,yes,yes,in unit,Near ballpark
+5/8/24 8:30 AM,offering,shared,male,veg,furnished,no,Longwood,ASAP,$450,9 months,,shared,0.4 miles,2,Veg male shared room,veg.male.longwood@gmail.com,yes,included,shared,Veg males
+5/8/24 9:40 AM,offering,4 bed,female,no preference,partially,,Back Bay,mid June,550,12 months,no,shared,1.1 miles,5,4BR for female students,female.4br.backbay@yahoo.com,yes,yes,building,Female household
+5/8/24 10:55 AM,looking,2bhk,mixed,,yes,yes,Roxbury,June 1,650,6 months,included,shared,1.4 miles,2-3,2BHK near T station,t.station.2bhk@gmail.com,required,required,yes,Transit access
+5/8/24 12:10 PM,offering,private,,veg,furnished,,Brookline,May 20,$800,flexible,yes,private,1.7 miles,1,Private veg room Brookline,veg.private.bkln@hotmail.com,yes,included,available,Veg cooking
+5/8/24 1:25 PM,offering,3 bed,male,vegetarian,no,no,Brighton,available now,575,9 months,partial,shared,2.8 miles,4,3BR veg male apartment,veg.male.3br.brighton@gmail.com,yes,Yes,coin-op,Veg males
+5/8/24 2:35 PM,looking,studio,female,,yes,,Allston,early May,1000,12 months,,private,2.1 miles,1,Studio for female student,female.studio.allston@yahoo.com,yes,yes,in unit,Female student
+5/8/24 3:50 PM,offering,1 bed,any,non-veg,furnished,yes,Cambridge,June 15,$900,6 months,no,private,3.0 miles,1,1BR furnished Cambridge,1br.furnished.cambridge@gmail.com,yes,included,in-unit,Near Harvard
+5/8/24 5:05 PM,offering,shared,male,,partially,,Mission Hill,May 1,500,flexible,included,shared,0.7 miles,3,Male shared Mission Hill,male.shared.mh@hotmail.com,included,yes,shared,Male roommates
+5/8/24 6:20 PM,looking,4bhk,female,veg,yes,no,Jamaica Plain,ASAP,750,9 months,yes,2 bathroom,2.5 miles,4-5,4BHK veg female house,veg.female.house.jp@gmail.com,needed,needed,prefer yes,Veg females
+5/8/24 7:30 PM,offering,2 bed,mixed,vegetarian,furnished,,Fenway,mid May,$650,12 months,partial,shared,0.6 miles,2,2BR veg Fenway,veg.2br.fenway@yahoo.com,yes,yes,building,Veg cooking
+5/8/24 8:45 PM,offering,private,,no preference,no,yes,Longwood,June 1,850,6 months,,private,0.3 miles,1,Private room Longwood,private.longwood.apt@gmail.com,yes,Yes,coin laundry,Medical area
+5/8/24 10:00 PM,looking,3bhk,male,,yes,,Back Bay,May 15,710,flexible,no,shared,1.0 miles,3,3BHK for male students,male.3bhk.backbay@hotmail.com,yes,yes,in unit,Male students
+5/9/24 7:20 AM,offering,studio,female,veg,furnished,no,Roxbury,June 15,$1000,9 months,included,private,1.2 miles,1,Veg studio for female,female.veg.studio.rox@gmail.com,yes,included,yes,Veg female
+5/9/24 8:35 AM,offering,shared,any,,partially,,Brookline,May 1,450,12 months,yes,shared,1.8 miles,2,Shared room Brookline,shared.brookline.apt@yahoo.com,included,yes,building,Near shops
+5/9/24 9:45 AM,looking,1 bed,male,non-veg,yes,yes,Brighton,available now,950,6 months,partial,private,2.7 miles,1,1BR for male professional,male.professional.brighton@gmail.com,yes,yes,in-unit,Professional
+5/9/24 11:00 AM,offering,4 bed,female,,furnished,,Allston,early June,550,flexible,,shared,2.0 miles,5,4BR for female students,female.4br.allston@hotmail.com,yes,included,shared,Female house
+5/9/24 12:15 PM,offering,2bhk,mixed,veg,no,no,Cambridge,June 1,650,12 months,no,shared,3.1 miles,2,2BHK veg apartment,veg.2bhk.cambridge@gmail.com,yes,yes,coin-op,Veg household
+5/9/24 1:30 PM,looking,private,female,,yes,,Mission Hill,May 20,800,9 months,included,private,0.8 miles,1,Private room for female,female.private.mh.search@yahoo.com,required,required,yes,Female student
+5/9/24 2:40 PM,offering,3bhk,any,vegetarian,furnished,yes,Jamaica Plain,ASAP,$710,6 months,yes,shared,2.6 miles,4,3BHK veg furnished,veg.furnished.3bhk.jp@gmail.com,yes,yes,building,Veg household
+5/9/24 3:55 PM,offering,studio,male,,partially,,Fenway,mid June,1050,12 months,partial,private,0.5 miles,1,Studio for male Fenway,male.studio.fenway@hotmail.com,included,yes,in-unit,Male student
+5/9/24 5:10 PM,looking,shared,female,veg,yes,no,Longwood,June 15,500,flexible,,shared,0.4 miles,2,Veg female shared room,veg.female.longwood@gmail.com,yes,included,any,Veg females
+5/9/24 6:25 PM,offering,1 bed,,no preference,furnished,,Back Bay,May 1,1100,9 months,no,private,1.1 miles,1,1BR furnished Back Bay,1br.backbay.furnished@yahoo.com,yes,Included,in-unit,Prime location
+5/9/24 7:35 PM,offering,4bhk,male,non-veg,no,yes,Roxbury,available now,750,12 months,included,2 bathroom,1.3 miles,5,4BHK male student house,male.house.rox@gmail.com,yes,yes,In-unit,Male house
+5/9/24 8:50 PM,looking,2 bed,mixed,,yes,,Brookline,early May,600,6 months,yes,shared,1.7 miles,2,2BR in Brookline,brookline.2br.wanted@hotmail.com,yes,included,prefer yes,Near Coolidge
+5/9/24 10:00 PM,offering,private,female,veg,furnished,no,Brighton,June 1,$850,flexible,partial,private,2.8 miles,1,Private veg room female,female.veg.brighton@gmail.com,yes,yes,building,Veg female
+5/10/24 7:10 AM,offering,3 bed,any,,partially,,Allston,mid May,575,12 months,,shared,2.1 miles,4,3BR near BU campus,3br.bu.allston@yahoo.com,yes,included,coin-op,Near BU
+5/10/24 8:25 AM,looking,studio,male,veg,yes,yes,Cambridge,June 15,1000,9 months,included,private,3.0 miles,1,Veg studio for male,veg.male.studio.cambridge@gmail.com,needed,needed,yes,Veg male
+5/10/24 9:40 AM,offering,shared,female,,furnished,,Mission Hill,May 20,450,6 months,yes,shared,0.7 miles,2,Female shared Mission Hill,female.mh.shared@hotmail.com,yes,yes,shared,Female roommate
+5/10/24 10:55 AM,offering,4 bed,mixed,non-veg,no,no,Jamaica Plain,ASAP,$550,12 months,partial,shared,2.5 miles,5,Budget 4BR JP,budget.4br.jp@gmail.com,yes,included,building,Student friendly
+5/10/24 12:10 PM,looking,2bhk,female,,yes,,Fenway,June 1,650,flexible,no,shared,0.6 miles,2,2BHK for female students,female.2bhk.fenway@yahoo.com,yes,yes,in unit,Female students
+5/10/24 1:25 PM,offering,private,male,veg,furnished,yes,Longwood,May 15,$900,9 months,included,private,0.3 miles,1,Private veg room male,male.veg.longwood.apt@gmail.com,yes,included,available,Veg male
+5/10/24 2:35 PM,offering,1 bed,,vegetarian,partially,,Back Bay,available now,1100,6 months,yes,private,1.0 miles,1,1BR veg Back Bay,veg.1br.backbay@hotmail.com,Yes,yes,in-unit,Veg cooking
+5/10/24 3:50 PM,looking,3bhk,female,non-veg,yes,no,Roxbury,early June,710,12 months,partial,shared,1.4 miles,3,3BHK for female students,female.3bhk.rox@gmail.com,yes,included,prefer yes,Female students
+5/10/24 5:05 PM,offering,studio,any,,furnished,,Brookline,June 15,$1050,flexible,,private,1.8 miles,1,Furnished studio Brookline,studio.brookline.furnished@yahoo.com,yes,Yes,in-unit,Modern building
+5/10/24 6:20 PM,offering,shared,male,veg,no,yes,Brighton,May 1,500,12 months,no,shared,2.7 miles,2,Veg male shared Brighton,veg.male.brighton.share@gmail.com,included,yes,coin-op,Veg males
+5/10/24 7:30 PM,looking,4bhk,,no preference,yes,,Allston,ASAP,750,9 months,included,2 bathroom,2.0 miles,4-5,Large 4BHK Allston,large.4bhk.allston@hotmail.com,required,required,yes,Spacious needed
+5/10/24 8:45 PM,offering,2 bed,female,,furnished,no,Cambridge,mid June,$600,6 months,yes,shared,3.2 miles,2,2BR for female students,female.2br.cambridge@gmail.com,yes,included,building,Female household
+5/10/24 10:00 PM,offering,private,mixed,veg,partially,,Mission Hill,June 1,850,12 months,partial,private,0.8 miles,1,Private veg room Mission Hill,veg.private.mh.apt@yahoo.com,yes,yes,shared,Veg household

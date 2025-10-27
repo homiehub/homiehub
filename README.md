@@ -40,6 +40,16 @@ python src/models/train.py --model distilbert
 python src/models/train.py --model sentence-bert
 ```
 
+Run ETL Pipeline:
+```
+# From repository root
+pip install -r requirements.txt
+python -m homiehub.pipelines.etl
+```
+- Input: `homiehub/homiehub/data/raw/MLOPs project data.csv`
+- Output: `homiehub/homiehub/data/processed/listings_processed.csv`
+- Note: Run the command from the repository root so Python can resolve the `homiehub` package.
+
 Deploy to GCP:
 * Push to GKE/Cloud Run via GitHub Actions (deployment/workflows/deploy.yml).
 
