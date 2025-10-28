@@ -21,7 +21,7 @@ def extract_housing_listings(input_file):
         - structured_listings_nlp.csv: Structured data with extracted fields
     """
     
-    output_file = "structured_listings_nlp.csv"
+    output_file = "homiehub_listings.csv"
     filtered_file = "relevant_listings.csv"
     
     # print("Loading spaCy model...")
