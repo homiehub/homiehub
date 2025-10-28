@@ -11,18 +11,9 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
-echo "======================================================================"
-echo "                    HomieHub ETL Pipeline                             "
-echo "======================================================================"
-echo ""
-
 # Get script directory
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 PROJECT_DIR="$SCRIPT_DIR"
-
-echo "Script directory: $SCRIPT_DIR"
-echo "Project directory: $PROJECT_DIR"
-echo ""
 
 # Check if project directory exists
 if [ ! -d "$PROJECT_DIR" ]; then
@@ -47,18 +38,13 @@ if [ ! -f "$GCP_KEY" ]; then
 fi
 
 # Activate virtual environment and run ETL
-echo "Activating virtual environment..."
 cd "$PROJECT_DIR"
 
 # Activate venv
 source venv/bin/activate
 
-echo -e "${GREEN}✓ Virtual environment activated${NC}"
-echo ""
 
 # Run ETL pipeline
-echo "Starting ETL pipeline..."
-echo "----------------------------------------------------------------------"
 python -m pipelines.etl
 
 # Check exit status
