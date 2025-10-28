@@ -29,12 +29,3 @@ def read_csv_from_gcs(bucket_name, filename, service_account_key_path):
     # Convert to DataFrame
     df = pd.read_csv(io.StringIO(csv_data))
     return df
-
-# Usage - just pass the filename, date is automatic
-# df = read_csv_from_gcs(
-#     bucket_name="homiehub",
-#     filename="homiehub_listings.csv",
-#     service_account_key_path="./GCP_Account_Key.json"
-# )
-
-# print(df.head())

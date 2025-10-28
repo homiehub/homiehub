@@ -1,5 +1,4 @@
 **/__pycache__
 data/
-GCP_Account_Key.json
-read_from_csv.py
+**/GCP_Account_Key.json
 upload_script_to_GCP.py
