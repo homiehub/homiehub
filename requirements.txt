@@ -34,6 +34,9 @@ requests==2.32.5
 requests-oauthlib==2.0.0
 rsa==4.9.1
 six==1.17.0
+spacy>=3.7.0
 tzdata==2025.2
+tqdm>=4.65.0
 urllib3==2.5.0
 yarl==1.22.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.7.3/en_core_web_trf-3.7.3-py3-none-any.whl
