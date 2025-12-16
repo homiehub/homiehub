@@ -1,4 +1,21 @@
-# HomieHub: AI-Powered Roommate Matching Platform
+<p align="center">
+  <img src="logo.png" alt="HomieHub Logo" height="150"/>
+<h1 align="center" style="font-size: 30px; margin-bottom: -10px;">
+  HomieHub <span style="font-size: 25px; font-weight: 500;">: AI-Powered Roommate Matching Platform</span>
+</h1>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/@TheSamzi">
+    <img src="https://img.shields.io/badge/YouTube-e52d27?style=for-the-badge&logo=youtube&logoColor=white" 
+         alt="YouTube" 
+         style="height:24px;">
+  </a>
+  <a href="https://homiehub-23.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-0078D7?style=for-the-badge&logo=internet-explorer&logoColor=white" 
+         alt="Website"
+         style="height:24px;">
+  </a>
+</p>
 
 ## Overview
 HomieHub is a cloud-native, MLOps-driven platform for university roommate matching. It aggregates listings from WhatsApp, social media, Kaggle datasets, and synthetic data via a conversational bot and web interface.
@@ -213,14 +230,6 @@ git push origin feature/YourFeature
 ## Acknowledgments
 
 Apache Airflow, Google Cloud Platform, MLflow, DVC, EvidentlyAI, MLOps course mentors, Open-source community
-
-## Contact & Collaboration
-
-For inquiries, collaboration, or contributions:
-- Open an [issue](https://github.com/homiehub/homiehub/issues) on GitHub
-- Here’s a polished, pro-level version for the **Contact** section:
-
----
 
 ## Contact
 
